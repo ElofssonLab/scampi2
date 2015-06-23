@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c/test/spoctopus/test1
+END
+query.list
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c/test/spoctopus/test1/query.list
+END
+hmg.list
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c/test/spoctopus/test1/hmg.list
+END
+NNZHMM_io_reent_hairpin_sigpep.hmg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/spoctopus/test1/NNZHMM_io_reent_hairpin_sigpep.hmg
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c/test/spoctopus/test1/test.sh
+END
+query.prf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/spoctopus/test1/query.prf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/spoctopus/test1/CMakeLists.txt
+END
+NNZHMM_io_reent_hairpin_sigpep.hmg.res
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/spoctopus/test1/NNZHMM_io_reent_hairpin_sigpep.hmg.res
+END

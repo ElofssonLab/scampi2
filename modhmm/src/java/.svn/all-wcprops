@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java
+END
+Constants.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Constants.html
+END
+Highway.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Highway.java
+END
+DataReaderMultiAlpha.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/DataReaderMultiAlpha.html
+END
+index-all.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/index-all.html
+END
+BetaGamma.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/BetaGamma.html
+END
+Forward_std.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Forward_std.html
+END
+InternalInitDistrib.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/InternalInitDistrib.html
+END
+Forward_alt.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Forward_alt.java
+END
+HMM.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/HMM.html
+END
+modhmmc.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/modhmmc.html
+END
+Module.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Module.html
+END
+modhmmc_manifest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/modhmmc_manifest.txt
+END
+constant-values.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/constant-values.html
+END
+SingleNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/SingleNode.html
+END
+SingleLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/SingleLoop.java
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/package-tree.html
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Constants.java
+END
+DataReaderMultiAlpha.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/DataReaderMultiAlpha.java
+END
+help-doc.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/help-doc.html
+END
+Forward_std.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Forward_std.java
+END
+BetaGamma.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/BetaGamma.java
+END
+HMM.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/HMM.java
+END
+InternalInitDistrib.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/InternalInitDistrib.java
+END
+P.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/P.html
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Module.java
+END
+HMMConstruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/HMMConstruct.java
+END
+SingleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/SingleNode.java
+END
+deprecated-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/deprecated-list.html
+END
+U_Turn.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/U_Turn.html
+END
+P.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/P.java
+END
+stylesheet.css
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/stylesheet.css
+END
+Vertex.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Vertex.html
+END
+allclasses-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/allclasses-frame.html
+END
+ModelMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/ModelMaker.html
+END
+Cluster.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Cluster.html
+END
+HMMSaver.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/HMMSaver.html
+END
+Polynomial.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Polynomial.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/package-frame.html
+END
+Emission.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Emission.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/package-summary.html
+END
+Profile7.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Profile7.html
+END
+Profile9.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Profile9.html
+END
+U_Turn.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/U_Turn.java
+END
+Transition.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Transition.html
+END
+Vertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Vertex.java
+END
+ModelMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/ModelMaker.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Cluster.java
+END
+HMMSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/HMMSaver.java
+END
+Polynomial.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Polynomial.java
+END
+Highway.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Highway.html
+END
+package-list
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/package-list
+END
+Emission.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Emission.java
+END
+overview-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/overview-tree.html
+END
+Forward_alt.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Forward_alt.html
+END
+Profile7.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Profile7.java
+END
+Profile9.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Profile9.java
+END
+Transition.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/Transition.java
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/index.html
+END
+SingleLoop.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/SingleLoop.html
+END
+allclasses-noframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/java/allclasses-noframe.html
+END

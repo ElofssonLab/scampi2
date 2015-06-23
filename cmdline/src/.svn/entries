@@ -1,0 +1,70 @@
+10
+
+dir
+2560
+https://svn.sbc.su.se/repos/cbr/modhmm-projects/trunk/cmdline/src
+https://svn.sbc.su.se/repos/cbr
+
+
+
+2011-02-02T16:05:29.497676Z
+2455
+aronh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0c88b7dd-734a-4b62-aae5-2cad2aa6e1d4
+
+spoctopus
+dir
+
+zpred-configure-files
+dir
+
+prodiv_tmhmm-configure-files
+dir
+
+topcons-configure-files
+dir
+
+zpred
+dir
+
+prodiv_tmhmm
+dir
+
+topcons
+dir
+
+topcons_single-configure-files
+dir
+
+topcons_single
+dir
+
+scampi-msa-configure-files
+dir
+
+scampi-msa
+dir
+
+scampi-configure-files
+dir
+
+scampi
+dir
+
+spoctopus-configure-files
+dir
+

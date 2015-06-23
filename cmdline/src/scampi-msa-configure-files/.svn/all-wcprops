@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/cbr/!svn/ver/1024/modhmm-projects/trunk/cmdline/src/scampi-msa-configure-files
+END
+run_SCAMPI_multi.pl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/cbr/!svn/ver/1024/modhmm-projects/trunk/cmdline/src/scampi-msa-configure-files/run_SCAMPI_multi.pl
+END
+fa2prfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/cbr/!svn/ver/1024/modhmm-projects/trunk/cmdline/src/scampi-msa-configure-files/fa2prfs.sh
+END

@@ -1,0 +1,44 @@
+------- Installation --------
+
+To install cmake is needed. Cmake can be downloaded from http://www.cmake.org/HTML/Download.html.
+
+For installation of TOPCONS and its submethods:
+
+You first need to install modhmm. Let's say you have installed modhmm so that the modhmm binaries ( e.g. modhmms ) are found in the directory /path/to/modhmm. If you want to install topcons, spoctopus, prodiv_tmhmm and scampi then you run these commands:
+
+mkdir /tmp/build
+cd /tmp/build
+cmake -D TARGETS="topcons;spoctopus;prodiv_tmhmm;scampi;scampi-msa" -D CMAKE_PREFIX_PATH=/path/to/modhmm -D CMAKE_INSTALL_PREFIX=/my/install/dir  /this/source/dir
+make
+make install
+
+------ Usage --------
+
+To run topcons you first need to run the submethods (see the READMEs in the individual subdirectories, e.g. /my/install/dir/spoctopus/README). Thereafter, you run TOPCONS.sh and specify the diretories with prediction results on the command line as arguments.
+
+For instance, if you want to use results from scampi-msa, scampi-seq, octopus, prodiv-tmhmm and pro-tmhmm as input for your TOPCONS-run, you prepare the following:
+
+- Run each of these predictors and store the results, e.g. in the directories
+/predictions/scampi-msa
+/predictions/scampi-seq
+/predictions/octopus
+/predictions/prodiv-tmhmm
+/predictions/pro-tmhmm
+
+- Create an output directory for your TOPCONS predictions, e.g.
+/predictions/topcons_out
+
+- Create a text file with the names of all your sequences that you want to run. The names should not include endings or full paths and must match the names given to the result files of the submethods. I.e. a names file with
+1a91A
+1ehkA
+...
+should have the corresponding output files
+1a91A.top
+1ehkA.top
+...
+in the various /predictions/<method name> directories.
+
+
+- Run the TOPCONS.sh script
+./TOPCONS.sh ./names_of_all_files_sequences_to_run.txt /predictions/topcons_out /predictions/scampi-msa /predictions/scampi-seq /predictions/octopus /predictions/prodiv-tmhmm /predictions/pro-tmhmm
+

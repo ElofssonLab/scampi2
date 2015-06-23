@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/cbr/!svn/ver/2183/modhmm-projects/trunk/cmdline/src/scampi
+END
+fasta_split.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/cbr/!svn/ver/2183/modhmm-projects/trunk/cmdline/src/scampi/fasta_split.py
+END
+DGHMM_KR_21.hmg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/cbr/!svn/ver/737/modhmm-projects/trunk/cmdline/src/scampi/DGHMM_KR_21.hmg
+END
+replacement_letter_multi.rpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/cbr/!svn/ver/737/modhmm-projects/trunk/cmdline/src/scampi/replacement_letter_multi.rpl
+END
+uniprot_sprot.fasta.res
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/cbr/!svn/ver/737/modhmm-projects/trunk/cmdline/src/scampi/uniprot_sprot.fasta.res
+END

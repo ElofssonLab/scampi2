@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/docbook/commands
+END
+add_alphabet_help
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/docbook/commands/add_alphabet_help
+END
+modseqalign_help
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/docbook/commands/modseqalign_help
+END
+modhmms_help
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/docbook/commands/modhmms_help
+END
+modhmmt_help
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/docbook/commands/modhmmt_help
+END

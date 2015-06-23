@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cbr/!svn/ver/719/modhmm-projects/trunk/modhmm/src/c/gengetopt
+END
+cmdline_modseqalign.ggo.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/cbr/!svn/ver/694/modhmm-projects/trunk/modhmm/src/c/gengetopt/cmdline_modseqalign.ggo.cmake
+END
+cmdline_modhmms.ggo.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/cbr/!svn/ver/719/modhmm-projects/trunk/modhmm/src/c/gengetopt/cmdline_modhmms.ggo.cmake
+END
+cmdline_modhmmt.ggo.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/cbr/!svn/ver/694/modhmm-projects/trunk/modhmm/src/c/gengetopt/cmdline_modhmmt.ggo.cmake
+END
+cmdline_add_alphabet.ggo.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/cbr/!svn/ver/694/modhmm-projects/trunk/modhmm/src/c/gengetopt/cmdline_add_alphabet.ggo.cmake
+END

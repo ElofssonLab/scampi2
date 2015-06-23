@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts
+END
+mod2prfmod_nolabelfile.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/mod2prfmod_nolabelfile.pl
+END
+mod2modquery.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/mod2modquery.pl
+END
+mod_upper_caser.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/mod_upper_caser.pl
+END
+msa2prf.sh.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/msa2prf.sh.cmake
+END
+msa62mod.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/msa62mod.pl
+END
+run_blast.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/run_blast.sh
+END
+mtx2prf.sh.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/mtx2prf.sh.cmake
+END
+mtx2prf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/mtx2prf.pl
+END
+run_psiblast.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/cbr/!svn/ver/684/modhmm-projects/trunk/modhmm/src/blastscripts/run_psiblast.sh
+END

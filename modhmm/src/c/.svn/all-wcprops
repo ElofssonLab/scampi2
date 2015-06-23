@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c
+END
+savehmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cbr/!svn/ver/719/modhmm-projects/trunk/modhmm/src/c/savehmm.c
+END
+core_algorithms_multialpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/cbr/!svn/ver/699/modhmm-projects/trunk/modhmm/src/c/core_algorithms_multialpha.c
+END
+build_gengetopt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/build_gengetopt.sh
+END
+modseqalign.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/modseqalign.c
+END
+modhmms.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cbr/!svn/ver/719/modhmm-projects/trunk/modhmm/src/c/modhmms.c
+END
+modhmmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cbr/!svn/ver/697/modhmm-projects/trunk/modhmm/src/c/modhmmt.c
+END
+std_calculation_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/cbr/!svn/ver/703/modhmm-projects/trunk/modhmm/src/c/std_calculation_funcs.c
+END
+structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/structs.h
+END
+readhmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/readhmm.c
+END
+savehmm_multialpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/savehmm_multialpha.c
+END
+funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/cbr/!svn/ver/719/modhmm-projects/trunk/modhmm/src/c/funcs.h
+END
+training_algorithms_multialpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/training_algorithms_multialpha.c
+END
+debug_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/debug_funcs.c
+END
+license-win32-statically-built
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/license-win32-statically-built
+END
+readseqs_multialpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/readseqs_multialpha.c
+END
+add_alphabet.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/add_alphabet.c
+END
+std_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/cbr/!svn/ver/719/modhmm-projects/trunk/modhmm/src/c/std_funcs.c
+END
+config.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/config.h.cmake
+END
+script.nsi.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/script.nsi.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cbr/!svn/ver/719/modhmm-projects/trunk/modhmm/src/c/CMakeLists.txt
+END
+readhmm_multialpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/cbr/!svn/ver/630/modhmm-projects/trunk/modhmm/src/c/readhmm_multialpha.c
+END

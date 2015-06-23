@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1
+END
+NNZHMM_io_reent_hairpin.hmg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1/NNZHMM_io_reent_hairpin.hmg
+END
+query.list
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1/query.list
+END
+replacement_letter_multi.rpl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1/replacement_letter_multi.rpl
+END
+hmg.list
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1/hmg.list
+END
+NNZHMM_io_reent_hairpin.hmg.res
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1/NNZHMM_io_reent_hairpin.hmg.res
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/cbr/!svn/ver/999/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1/test.sh
+END
+query.prf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1/query.prf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/cbr/!svn/ver/711/modhmm-projects/trunk/modhmm/src/c/test/octopus/test1/CMakeLists.txt
+END
