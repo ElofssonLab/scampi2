@@ -8,7 +8,7 @@ You first need to install modhmm. Let's say you have installed modhmm so that th
 
 mkdir /tmp/build
 cd /tmp/build
-cmake -D TARGETS="topcons;spoctopus;prodiv_tmhmm;scampi;scampi-msa" -D CMAKE_PREFIX_PATH=/path/to/modhmm -D CMAKE_INSTALL_PREFIX=/my/install/dir  /this/source/dir
+cmake -D TARGETS="scampi;scampi-msa" -D CMAKE_PREFIX_PATH=/path/to/modhmm -D CMAKE_INSTALL_PREFIX=/my/install/dir  /this/source/dir
 make
 make install
 
