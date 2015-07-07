@@ -23,8 +23,7 @@ fi
 $blastdir/bin/blastpgp -i ${infile_path}.fa -d $db -e 1e-3 -v 0 -b 500 -m 6 -a 4 > ${infile_path}.blast
 $bindir/msa62fasta_oneround.pl ${infile_path}.blast > ${infile_path}.hits.db
 $blastdir/bin/formatdb -i ${infile_path}.hits.db -l /dev/null
-$blastdir/bin/blastpgp -j 2 -i ${infile_path}.fa -d ${infile_path}.hits.db -e 1000000 -v 0 -b 1000000 -a 4 -C ${infile_path}.chk -Q ${infile_path}.psi >/dev/null
-
+$blastdir/bin/blastpgp -j 2 -i ${infile_path}.fa -d ${infile_path}.hits.db -e 1e-4 -v 0 -b 100 -a 4 -C ${infile_path}.chk -Q ${infile_path}.psi >/dev/null
 $bindir/msa62mod_oneround.pl ${infile_path}.blast ${infile_path}.fa > ${infile_path}.raw.prf
 
 @echo_EXECUTABLE@ $filename.chk > ${infile_path}.pn
