@@ -38,6 +38,7 @@ if(open(IN,"$tmpdir/query.fix")) {
 print "Running SCAMPI \n";
 system("@modhmms_scampi_EXECUTABLE@ -f prf -s $tmpdir/query.raw.prf.snf -m $bindir/DGHMM_KR_21_multi.txt -r $bindir/replacement_letter_multi.rpl --nopostout --viterbi -u -L > $tmpdir/scampi_modhmmres.xml");
 system("@modhmmxml2top_EXECUTABLE@ < $tmpdir/scampi_modhmmres.xml > $outfile");
+system("python $scampi_dir/simplify_topology.py $outfile");
 system("@rm_EXECUTABLE@ -rf $tmpdir");
 
 sub relabel_prf_file {

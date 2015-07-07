@@ -890,7 +890,6 @@ int main(int argc, char* argv[])
       }
       strcat(cur_savefile_name, pure_seq_name_a);
       strcat(cur_savefile_name, ".res");
-      
       if((outfile = fopen(cur_savefile_name, "w")) == NULL) {
 	perror(cur_savefile_name);
 	continue;
