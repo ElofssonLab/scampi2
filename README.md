@@ -18,5 +18,5 @@
 
  4. Running
   * Scampi-Single: 
-    * Command: ./SCAMPI_run.pl input_fasta output_file
-    * input_fasta can contain one or more fasta entries
+    * Command: ./SCAMPI_run.pl <input_fasta> <output_file>
+    * <input_fasta> can contain one or more fasta entries
