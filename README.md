@@ -3,6 +3,12 @@
 ## Setup
  1. Clone the github repository 
  2. Install modhmm
+  * mkdir /tmp/build
+  * cd /tmp/build
+  * cmake -D CMAKE_INSTALL_PREFIX=/my/install/dir  /this/source/dir
+  * make
+  * make install
+
  3. Install cmdline
   * mkdir /tmp/build
   * cd /tmp/build
