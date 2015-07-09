@@ -20,3 +20,6 @@
   * Scampi-Single: 
     * Command: ./SCAMPI_run.pl \<input_fasta\> \<output_file\>
     * \<input_fasta\> can contain one or more fasta entries
+  * Scampi-MSA:
+    * Command:  ./run_SCAMPI_multi.pl \<input_fasta\> \<output_file\> \<blast_dir\> \<blast_db\>
+    * \<input_fasta\> can contain one (!) fasta entry
