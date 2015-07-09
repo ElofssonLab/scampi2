@@ -12,7 +12,8 @@ def generateFasta(strFasta, tmpdir = '/tmp') :
         yield strTitle, strSeq;
     os.remove(tmpfilepath);
 
-def generateFastaFromFile(strFastaFile) :
+def generateFastaFromFile(strFastaFile):
+    print "generateFastaFromFile"
     strTitle = "";
     strSeq = "";
 
@@ -36,20 +37,21 @@ def generateFastaFromFile(strFastaFile) :
     yield strTitle, strSeq;
     flhFasta.close();
 
-def saveFile(title, seq, outdir, seqtype="fasta", intNameColumn = 1, splitchar = '|') :
+def saveFile(title, seq, outdir, iCounter, seqtype="fasta", intNameColumn = 1):#splitchar = '|') :
     strFilename = "";
-    if seqtype == "fasta" :
-        strFilename = title.split(splitchar)[intNameColumn].split()[0] + '.fa';
-    elif seqtype == 'top' :
-        strFilename = title.split(splitchar)[intNameColumn].split()[0] + '.top';
-    else :
-        raise Exception("Unrecognised filetype ('%s')" % seqtype);
+    #if seqtype == "fasta" :
+    #    strFilename = title.split(splitchar)[intNameColumn].split()[0] + '.fa';
+    #elif seqtype == 'top' :
+    #    strFilename = title.split(splitchar)[intNameColumn].split()[0] + '.top';
+    #else :
+    #    raise Exception("Unrecognised filetype ('%s')" % seqtype);
     
-    flhOut = file(os.path.join(outdir, strFilename), 'w');
+    flhOut = file(os.path.join(outdir, "seq_" +str(iCounter)), 'w');
     print >>flhOut, ">%s\n%s" % (title, seq);
     flhOut.close();
 
 def splitToSmaller(fasta_file_path, outdir, seqs_per_outfile = 10, seqtype="fasta", name_column = 1, split_char = '|') :
+    print "splitToSmaller"
     strFilenameBase = "fasta_%dseqs_" % seqs_per_outfile;
 
     intCounter = 0;
@@ -106,14 +108,9 @@ if __name__ == '__main__' :
     flhFasta = file(strFastafile);
     fasta = flhFasta.read();
     flhFasta.close();
-
-    for t, s in generateFasta(fasta) :
-        if not intColumn is None :
-            if not strSplitchar is None :
-                saveFile(t,s,strOutdir,strSeqtype, intColumn, strSplitchar);
-            else :
-                saveFile(t,s,strOutdir,strSeqtype, intColumn);
-        else :
-            saveFile(t,s,strOutdir,strSeqtype);
-
-
+    iCounter = 0
+    with open(strOutdir.replace("sequences","map_header.txt"),"w") as outFile:
+        for t, s in generateFasta(fasta) :
+            saveFile(t,s,strOutdir,iCounter,strSeqtype, intColumn)
+            outFile.write("seq_" + str(iCounter) + ":" + t + "\n")
+            iCounter += 1
