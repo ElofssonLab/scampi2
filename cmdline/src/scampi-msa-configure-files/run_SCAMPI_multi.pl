@@ -18,7 +18,7 @@ my $tmpdir = tempdir("@tmpdir@/scampi-msa_tmpdir_XXXXXX");
 
 $ENV{'PATH'}="/bin:/usr/bin";
 system("$bindir/fix_fasta.pl $fastafile > $tmpdir/query.fa");
-system("@echo_EXECUTABLE@ $bindir/DGHMM_KR_21_multi.hmg > $bindir/DGHMM_KR_21_multi.txt");
+#system("@echo_EXECUTABLE@ $bindir/DGHMM_KR_21_multi.hmg > $bindir/DGHMM_KR_21_multi.txt");
 
 print "BLASTing...\n";
 system("$bindir/fa2prfs.sh $tmpdir/query $blastdir $blast_db");
