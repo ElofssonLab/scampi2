@@ -8,4 +8,14 @@
 bak/
 
 /bin/
-/test/
+
+error.log
+test/O93740.aa
+test/P00803.aa
+test/P47865.aa
+test/P47865.out
+test/P62737.aa
+test/P69905.aa
+test/error.log
+test/out[0-9].txt
+test/t[0-9].*
