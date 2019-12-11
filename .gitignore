@@ -1,0 +1,8 @@
+# Compiled source
+*.pyc
+
+# vim temp files
+.*.swp
+
+*.bak
+bak/
